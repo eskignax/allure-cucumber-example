@@ -78,3 +78,9 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+.gradle/
+allure-results/
+build/reports/
+build/resources/
+build/test-results/
+build/tmp/
